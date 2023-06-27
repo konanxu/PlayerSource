@@ -51,6 +51,43 @@
           "isActive": true,
           "type": 1,
           "search": 1
+      },
+      {
+          "id": 4,
+          "key": "ikun资源",
+          "name": "ikun资源",
+          "api": "https://ikunzyapi.com/api.php/provide/vod/",
+          "download": "",
+          "playUrl": "",
+          "group": "默认",
+          "status": true,
+          "isActive": true,
+          "type": 1
+          
+      },
+      {
+          "id": 5,
+          "key": "明帝影视",
+          "name": "明帝影视",
+          "api": "https://ys.md214.cn/api.php/provide/vod/",
+          "download": "",
+          "playUrl": "",
+          "group": "默认",
+          "status": true,
+          "isActive": true,
+          "type": 1
+      },
+      {
+          "id": 6,
+          "key": "映迷影院",
+          "name": "映迷影院",
+          "api": "https://www.inmi.app/api.php/provide/vod/",
+          "download": "",
+          "playUrl": "",
+          "group": "默认",
+          "status": true,
+          "isActive": true,
+          "type": 1,
       }
     ]
   },
